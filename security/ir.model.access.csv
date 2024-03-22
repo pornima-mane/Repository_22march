@@ -1,0 +1,8 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_purchase_request_order,purchase.request.order,model_purchase_request_order,,1,1,1,1
+access_purchase_request_order_line,purchase.request.order.line,model_purchase_request_order_line,,1,1,1,1
+access_purchase_rfq,purchase.rfq,model_purchase_rfq,,1,1,1,1
+access_purchase_rfq_line,purchase.rfq.line,model_purchase_rfq_line,,1,1,1,1
+access_wizard_vendor,wizard_vendor,model_wizard_vendor,,1,1,1,1
+
+
