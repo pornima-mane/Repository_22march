@@ -98,7 +98,7 @@ class PurchaseRequestOrder(models.Model):
             'currency_id': self.currency_id.id,
             'user_id': self.user_id.id,
             'company_id': self.company_id.id,
-            # 'pricelist_id': pl.id,
+            
             # 'payment_term_id': self.payment_term_id.id,
             'fiscal_position_id': self.fiscal_position_id.id,
             'request_id': self.id,
