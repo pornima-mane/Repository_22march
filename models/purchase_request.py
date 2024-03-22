@@ -99,7 +99,7 @@ class PurchaseRequestOrder(models.Model):
             'user_id': self.user_id.id,
             'company_id': self.company_id.id,
             
-            # 'payment_term_id': self.payment_term_id.id,
+            
             'fiscal_position_id': self.fiscal_position_id.id,
             'request_id': self.id,
             'order_line': [],
